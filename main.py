@@ -71,11 +71,12 @@ async def main():
     os.system("cls" if os.name == "nt" else "clear")
     print(
         f"""
-    {magenta}╔═╗╔╦╗╔═╗  {green}╔═╗┬─┐┌─┐ ┬┌─┐┌─┐┌┬┐
-    {magenta}╚═╗ ║║╚═╗  {green}╠═╝├┬┘│ │ │├┤ │   │ 
-    {magenta}╚═╝═╩╝╚═╝  {green}╩  ┴└─└─┘└┘└─┘└─┘ ┴ 
+     _   _  ___  _____ _    _   _   ____      _    __  __ ____  _____
+| \ | |/ _ \|  ___/ \  | \ | | |  _ \    / \  |  \/  | __ )| ____|     |  \| | | | | |_ / _ \ |  \| | | |_) |  / _ \ | |\/| |  _ \|  _|
+| |\  | |_| |  _/ ___ \| |\  | |  _ <  / ___ \| |  | | |_) | |___
+|_| \_|\___/|_|/_/   \_\_| \_| |_| \_\/_/   \_\_|  |_|____/|_____|
     
-    {green}Github: {white}github.com/AkasakaID
+    {green}Github: {white}github.com/Rambeboy
           """
     )
     if not os.path.exists("userid.txt"):
