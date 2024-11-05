@@ -71,11 +71,16 @@ async def main():
     os.system("cls" if os.name == "nt" else "clear")
     print(
         f"""
-    {magenta}╔═╗╔╦╗╔═╗  {green}╔═╗┬─┐┌─┐ ┬┌─┐┌─┐┌┬┐
-    {magenta}╚═╗ ║║╚═╗  {green}╠═╝├┬┘│ │ │├┤ │   │ 
-    {magenta}╚═╝═╩╝╚═╝  {green}╩  ┴└─└─┘└┘└─┘└─┘ ┴ 
-    
-    {green}Github: {white}github.com/AkasakaID
+  {
+    process.stdout.write('\x1Bc');
+    console.log('========================================'.cyan);
+    console.log('=         TENEO Airdrop Bot            ='.cyan);
+    console.log('=       Created by Nofan Rambe         ='.cyan);
+    console.log('= Github: https://github.com/Rambeboy  ='.cyan);
+    console.log('========================================'.cyan);
+    console.log();
+  }
+
           """
     )
     if not os.path.exists("userid.txt"):
