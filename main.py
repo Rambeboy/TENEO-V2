@@ -77,7 +77,7 @@ _   _  ___  _____ _    _   _   ____      _    __  __ ____  _____
 | |\  | |_| |  _/ ___ \| |\  | |  _ <  / ___ \| |  | | |_) | |___
 |_| \_|\___/|_|/_/   \_\_| \_| |_| \_\/_/   \_\_|  |_|____/|_____|
 
-             {green}Github: {red}github.com/Rambeboy
+                 {green}Github: {red}github.com/Rambeboy
           """
     )
     if not os.path.exists("userid.txt"):
