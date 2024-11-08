@@ -1,4 +1,4 @@
-## TENEO V2 AUTO FARMING
+## TENEOXD AUTO FARMING
 
 ## Features Bot
 
@@ -43,7 +43,7 @@
 
 1. **Clone Project Repository**
    ```bash
-   git clone https://github.com/Rambeboy/TENEO-V2.git
+   git clone https://github.com/Rambeboy/TENEOXD.git
    ```
    ```bash
    cd TENEO-V2
