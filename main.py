@@ -88,7 +88,7 @@ async def main():
                                              
 
 
-    {green}Github: {blue}github.com/Rambeboy
+    {green}Author: {blue}Nofan Rambe!
           """
     )
     if not os.path.exists("userid.txt"):
