@@ -1,4 +1,4 @@
-## TENEOXD AUTO FARMING
+### TENEO EXTENSIONS AUTO FARMING
 
 ## Features Bot
 
@@ -46,7 +46,7 @@
    git clone https://github.com/Rambeboy/TENEOXD.git
    ```
    ```bash
-   cd TENEO-V2
+   cd TENEOXD
    ```
 2. **Install Dependencies**
    ```bash
@@ -66,3 +66,5 @@ To run the Teneo Bot, use the following command in the project directory:
 ```bash
 python main.py
 ```
+
+---
